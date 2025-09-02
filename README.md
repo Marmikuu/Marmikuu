@@ -1,5 +1,4 @@
 ## Hi there! 👋
-![](my_cover_marmikuu.png)
 
 I've recently started sharing my work here ...
 
